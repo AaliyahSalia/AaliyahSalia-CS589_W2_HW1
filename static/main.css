@@ -1,0 +1,81 @@
+/* Import the Pacifico font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body, input {
+    font-size: 16px;
+    line-height: 24px;
+    color: #8B008B; /* Dark Magenta */
+    font-family: "Pacifico", cursive; /* Pacifico font as the primary font */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;
+    background-color: #FFD1DC; /* Light Pink */
+}
+
+.icon {
+    width: 34px;
+}
+
+h3 {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: bold;
+    color: #9400D3; /* Dark Violet */
+    margin: 16px 0 40px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+label {
+    font-size: 18px;
+    line-height: 20px;
+    color: #9400D3; /* Dark Violet */
+    margin-bottom: 8px;
+    font-weight: bold;
+    text-align: left;
+}
+
+input[type="text"] {
+    padding: 12px 16px;
+    border: 1px solid #FF69B4; /* Hot Pink */
+    border-radius: 4px;
+    margin-bottom: 24px;
+}
+
+::placeholder {
+    color: #DA70D6; /* Orchid */
+    opacity: 1;
+}
+
+input[type="submit"] {
+    padding: 12px 0;
+    color: #fff;
+    background-color: #FF69B4; /* Hot Pink */
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.result {
+    font-weight: bold;
+    margin-top: 40px;
+    width: 520px;
+}
+
+  /* #chatbox {
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 400px;
+    overflow-y: scroll;
+    width: 520px;
+    align-items: "center";
+  } */
