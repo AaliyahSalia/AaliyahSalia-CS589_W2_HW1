@@ -27,3 +27,7 @@ Here is a summary of the key points from the PDF:
 - An interactive web application to provide customer support by answering user queries about a website
 - Optimization of OpenAI API token usage by minimizing usage during development
 - A modular and customizable implementation allowing easy adaptation to other websites
+
+References:
+https://hc.labnet.sfbu.edu/~henry/sfbu/course/machine_learning/chatgpt/slide/exercise_chatgpt.html
+https://platform.openai.com/docs/tutorials/web-qa-embeddings
