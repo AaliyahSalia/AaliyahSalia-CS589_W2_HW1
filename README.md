@@ -1,6 +1,8 @@
 # AaliyahSalia-CS589_W2_HW1
 Project: Customer Support System: Use ChatGPT to build a web-based system that can answer questions about a website.
 
+Google Slide link: https://docs.google.com/presentation/d/1mNrjx1qxSvyLX8Sgjy4E_abJLv_pFwJBwBPcJIcED1o/edit?usp=sharing
+
 Here is a summary of the key points from the PDF:
 
 # Customer Support Web Application using ChatGPT
